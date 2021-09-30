@@ -1,15 +1,12 @@
 #eddiehome
-peer=jp03.naigai1.club#%E6%97%A5%E6%9C%AC03%E4%B8%A8%E6%9E%81%E9%80%9F%E4%B8%A8%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@us02.naigai1.club:443?peer=us02.naigai1.club#%E7%BE%8E%E5%9B%BD02%E4%B8%A8%E6%9E%81%E9%80%9F%E4%B8%A8
 ssr://YmVhdXRpZnVsLnZvZGFmb25lLmN5b3U6MzAwNTphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOlRqWTJPR3RyVHpVelUwby8_cmVtYXJrcz1UbUVnNTc2TzVadTlJREF4JnByb3RvcGFyYW09TXpJd09EZzVPa05KVG01S1lnJm9iZnNwYXJhbT1ZMkk1WkdNek1qQTRPRGt1YldsamNtOXpiMlowTG1OdmJR
 vmess://YXV0bzo2OWM1YWQ4Ni1jYzAzLTNiZWMtOTE0ZS1iOWFhZmRmNjEzYWFAaW4wMS5kZG5zMTY4LmNvbTo2MTAxNA?remarks=%E7%BE%8E%E5%9B%BD011&obfsParam=jkl-us01.covid19.rip&path=/jkl&obfs=websocket&tls=1&peer=&cert=
 vmess://YXV0bzo2OWM1YWQ4Ni1jYzAzLTNiZWMtOTE0ZS1iOWFhZmRmNjEzYWFAaW4wMi5kZG5zMTY4LmNvbTo2MTAxNA?remarks=%E7%BE%8E%E5%9B%BD012&obfsParam=jkl-us01.covid19.rip&path=/jkl&obfs=websocket&tls=1&peer=&cert=
 vmess://YXV0bzo2OWM1YWQ4Ni1jYzAzLTNiZWMtOTE0ZS1iOWFhZmRmNjEzYWFAaW4wMy5kZG5zMTY4LmNvbTo2MTAxNA?remarks=%E7%BE%8E%E5%9B%BD013&obfsParam=jkl-us01.covid19.rip&path=/jkl&obfs=websocket&tls=1&peer=&cert=
 vmess://YXV0bzo2OWM1YWQ4Ni1jYzAzLTNiZWMtOTE0ZS1iOWFhZmRmNjEzYWFAaW4wNC5kZG5zMTY4LmNvbTo2MTAxNA?remarks=%E7%BE%8E%E5%9B%BD015&obfsParam=jkl-us01.covid19.rip&path=/jkl&obfs=websocket&tls=1&peer=&cert=
-ssr://djQtbm9kZTQ3Lm1pbWVtaS05bWloLmNvbToxMzEwNzphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jdHI6dGxzMS4yX3RpY2tldF9hdXRoOmJXbHRaVzFwLz9yZW1hcmtzPVcxWTBJRlIxYm01bGJGMGc2YWFaNXJpdklEQXpJRnN4TGpBZzVZQ041NDZIWFEmcHJvdG9wYXJhbT1NVFUwTXpNNmJXbHRaVzFwJm9iZnNwYXJhbT1hR3N5YzJOb04yTmxZVEV4TlRRek15NTNibk11ZDJsdVpHOTNjeTVqYjIw
 ssr://djItbm9kZTE1Lm1pbWVtaS05bWloLmNvbTo3MTA4OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9NTc2TzVadTlJREF4JnByb3RvcGFyYW09TVRVME16TTZiV2x0WlcxcCZvYmZzcGFyYW09YUdzeWMyTm9OMk5sWVRFeE5UUXpNeTUzYm5NdWQybHVaRzkzY3k1amIyMA
 trojan://T9MTTc@buyvmlasi.tkblogs.win:443?peer=#K%20%E7%BE%8E%E5%9B%BD
-trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-02.cn0.me:443?peer=paydiu.com#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD001
 trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-01.cn0.me:443?peer=paydiu.com#%F0%9F%87%BA%F0%9F%87%B2%20Trojan%E4%BC%98%E5%8C%96%EF%BD%9C%E7%BE%8E%E5%9B%BD-01%20%5B0.5%5D
 trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-6.cn0.me:443?peer=paydiu.com#%E7%BE%8E%E5%9B%BD-06
 trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-13.cn0.me:443?peer=paydiu.com#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD004
@@ -30,3 +27,5 @@ vmess://YXV0bzo2OWM1YWQ4Ni1jYzAzLTNiZWMtOTE0ZS1iOWFhZmRmNjEzYWFAaW4wMi5kZG5zMTY4
 vmess://YXV0bzo2OWM1YWQ4Ni1jYzAzLTNiZWMtOTE0ZS1iOWFhZmRmNjEzYWFAaW4wNC5kZG5zMTY4LmNvbTo2MTA1Nw?remarks=%E5%8F%B0%E6%B9%BE09&obfsParam=cdn.bootcdn.net&path=/hls&obfs=websocket&cert=
 ssr://djMtbm9kZTcyLm1pbWVtaS05bWloLmNvbTo3MTA2OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9NTc2TzVadTlJREV5JnByb3RvcGFyYW09TVRVME16TTZiV2x0WlcxcCZvYmZzcGFyYW09YUdzeWMyTm9OMk5sWVRFeE5UUXpNeTUzYm5NdWQybHVaRzkzY3k1amIyMA
 ssr://djItbm9kZTQ4Lm1pbWVtaS15N2V6LmNvbTo3ODAxOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9NVlxZzVvdV81YVNuSURBeCZwcm90b3BhcmFtPU1UVTBNek02YldsdFpXMXAmb2Jmc3BhcmFtPWFHc3ljMk5vTjJObFlURXhOVFF6TXk1M2JuTXVkMmx1Wkc5M2N5NWpiMjA
+trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-01.cn0.me:443?peer=paydiu.com#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD-0
+ssr://Y24tMi5jcmhub2RlLnRvcDo1NDA6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6UVVGRldFNUZWRmRQVWt0VVJVTklUazlNVDBkWlRGUkVNakF4TnpBM01UVS8_cmVtYXJrcz02SXV4NVp1OSZwcm90b3BhcmFtPSZvYmZzcGFyYW09TWpBeE5EZ3RPREU0Ym5jM2JWbG5SaTVrYjNkdWJHOWhaQzV0YVdOeWIzTnZablF1WTI5dA
