@@ -46,3 +46,4 @@ ssr://aWV0aGllNmkubm9kZWluZm8uaWN1OjExNTI6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6dGxzMS
 trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-02.cn0.me:443?peer=paydiu.com#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD001
 trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-03.cn0.me:443?peer=paydiu.com#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD002
 ssr://Y24tNC5jcmhub2RlLnRvcDo1NzY6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6UVVGRldFNUZWRmRQVWt0VVJVTklUazlNVDBkWlRGUkVNakF4TnpBM01UVS8_cmVtYXJrcz01NzZPNVp1OUlEQTAmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPU1qQXhORGd0T0RFNGJuYzNiVmxuUmk1a2IzZHViRzloWkM1dGFXTnliM052Wm5RdVkyOXQ
+vmess://YXV0bzo2OWM1YWQ4Ni1jYzAzLTNiZWMtOTE0ZS1iOWFhZmRmNjEzYWFAaW4wMS5kZG5zMTY4LmNvbTo2MTAwMg?remarks=%E5%8F%B0%E6%B9%BE01&obfsParam=cdn.bootcdn.net&path=/hls&obfs=websocket&cert=
