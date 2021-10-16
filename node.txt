@@ -1,16 +1,10 @@
 #eddiehome
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@us02.naigai1.club:443?peer=us02.naigai1.club#%E7%BE%8E%E5%9B%BD02%E4%B8%A8%E6%9E%81%E9%80%9F%E4%B8%A8
-ssr://YmVhdXRpZnVsLnZvZGFmb25lLmN5b3U6MzAwNTphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOlRqWTJPR3RyVHpVelUwby8_cmVtYXJrcz1UbUVnNTc2TzVadTlJREF4JnByb3RvcGFyYW09TXpJd09EZzVPa05KVG01S1lnJm9iZnNwYXJhbT1ZMkk1WkdNek1qQTRPRGt1YldsamNtOXpiMlowTG1OdmJR
 ssr://djItbm9kZTE1Lm1pbWVtaS05bWloLmNvbTo3MTA4OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9NTc2TzVadTlJREF4JnByb3RvcGFyYW09TVRVME16TTZiV2x0WlcxcCZvYmZzcGFyYW09YUdzeWMyTm9OMk5sWVRFeE5UUXpNeTUzYm5NdWQybHVaRzkzY3k1amIyMA
 trojan://T9MTTc@buyvmlasi.tkblogs.win:443?peer=#K%20%E7%BE%8E%E5%9B%BD
 trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-6.cn0.me:443?peer=paydiu.com#%E7%BE%8E%E5%9B%BD-06
 trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-us-13.cn0.me:443?peer=paydiu.com#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD004
-trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@zhilian-us-a.cn0.me:443?peer=paydiu.com#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD005
-trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@l2-us-h.cn0.me:443?peer=paydiu.com#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD007
-ssr://YmVhdXRpZnVsLnZvZGFmb25lLmN5b3U6MzAwMDphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOmIxaHFXalprTVVSRFN6QS8_cmVtYXJrcz1UbUVnNVlxZzVvdV81YVNuJnByb3RvcGFyYW09TXpJd09EZzVPa05KVG01S1lnJm9iZnNwYXJhbT1ZMkk1WkdNek1qQTRPRGt1YldsamNtOXpiMlowTG1OdmJR
 vmess://YXV0bzpjOWExOTBhNi02NjAzLTRiZWEtYjEzOS1lZGEyYzEwYzQzNWVAdXMwMi5pbnRlcm5ldHNtYXJ0cm91dGluZy50b3A6MjA1Njg?remarks=%E7%BE%8E%E5%9B%BD%2012&obfsParam=apple.com&path=/Patti$Freud$4Clubs$spendable$lamar7$mollie7&obfs=websocket&cert=
 ssr://YmVhdXRpZnVsLnZvZGFmb25lLmN5b3U6MjMwNDphdXRoX2FlczEyOF9zaGExOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOk4ydFhRMFJNVjFCQlNFWS8_cmVtYXJrcz1RWE1nNVktdzVybS1JREF4JnByb3RvcGFyYW09TXpJd09EZzVPa05KVG01S1lnJm9iZnNwYXJhbT1ZMkk1WkdNek1qQTRPRGt1YldsamNtOXpiMlowTG1OdmJR
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@tw01.naigai1.club:443?peer=tw01.naigai1.club#%E5%8F%B0%E6%B9%BE01
 trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@kaizen-tw-2.paolu.co:443?peer=paydiu.com#%F0%9F%87%BC%F0%9F%87%B8%20%E5%8F%B0%E6%B9%BE-2
 ssr://djQtbm9kZTMyLm1pbWVtaS05bWloLmNvbTo4MTAzOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9WldRZzVZLXc1cm0tSURBeCZwcm90b3BhcmFtPU1UVTBNek02YldsdFpXMXAmb2Jmc3BhcmFtPWFHc3ljMk5vTjJObFlURXhOVFF6TXk1M2JuTXVkMmx1Wkc5M2N5NWpiMjA
 ssr://djQtbm9kZTU1Lm1pbWVtaS15N2V6LmNvbTo4MTAxOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6YldsdFpXMXAvP3JlbWFya3M9WldRZzVZLXc1cm0tSURBMSZwcm90b3BhcmFtPU1UVTBNek02YldsdFpXMXAmb2Jmc3BhcmFtPWFHc3ljMk5vTjJObFlURXhOVFF6TXk1M2JuTXVkMmx1Wkc5M2N5NWpiMjA
